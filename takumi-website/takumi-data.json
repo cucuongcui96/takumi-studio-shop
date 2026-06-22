@@ -1,7 +1,7 @@
 {
   "site": {
     "brand": "Takumi Studio",
-    "updatedAt": "2026-06-22T02:54:51.809Z"
+    "updatedAt": "2026-06-22T03:22:08.356Z"
   },
   "categories": [
     {
@@ -19,11 +19,67 @@
   ],
   "products": [
     {
+      "id": "1782097838674",
+      "active": true,
+      "featured": false,
+      "category": "decor",
+      "name": "Tượng Phật Quan Âm Nghìn Tay",
+      "short": "Tượng Decor Phong Thủy Cho Taplo Ô Tô, Bàn Làm Việc, Mang Lại Bình An",
+      "description": "Tên sản phẩm: Tượng Quan Âm In 3D Nhựa PLA+ (15cm) - Tượng Decor Phong Thủy Cho Taplo Ô Tô, Bàn Làm Việc, Mang Lại Bình An [Takumi]\n\n✨ TƯỢNG QUAN ÂM NGỒI ĐÀI SEN - BÌNH AN TRONG TỪNG ĐƯỜNG NÉT ✨\n\n\n\n⚙️ THÔNG TIN SẢN PHẨM\n\nChất liệu: Nhựa sinh học PLA+ (Siêu bền bỉ, rơi không vỡ, an toàn cho sức khỏe).\n\nCông nghệ: In 3D sắc nét đến từng nếp áo, cánh sen.\n\nKích thước: Cao 10cm - 15cm - 20cm.\n\nMàu sắc: Trắng Bạch Ngọc | Vàng Ngọc Ngà | Xám Khói (Đá Thiền).\n\n\n\n💎 ƯU ĐIỂM NỔI BẬT\n\nKhông lo rơi vỡ: Khắc phục nhược điểm của gốm sứ/thạch cao, cực kỳ an toàn khi đặt trên Taplo Ô tô.\n\nỨng dụng đa dạng: Cấu tạo nhẹ nhưng đứng vững, dễ dán keo. Phù hợp decor ô tô, bàn làm việc, hòn non bộ, góc thiền...\n\nÝ nghĩa: Tượng mang năng lượng an lạc, hóa giải muộn phiền, là món quà tân gia/sinh nhật đầy tinh tế.\n\n\n\n📦 TAKUMI CAM KẾT\n\nSản phẩm thực tế sắc nét đúng 100% như hình/video.\n\nĐóng gói chống sốc nhiều lớp cực kỳ cẩn thận.\n\n1 ĐỔI 1 ngay lập tức nếu nứt vỡ do vận chuyển (Khách hoan hỉ quay lại video khi mở hàng nhé).\n\n\n\n#takumidecor #tuongquanamin3d #tuongquanam #tuongphatmini #decoroto #decortaplo #decorbanlamviec #tuongphongthuy #quatangynghia #tuongdecor #nhuapla",
+      "badge": "",
+      "ship": false,
+      "rating": 4.9,
+      "sold": 98,
+      "images": [
+        "https://i.postimg.cc/MK9X17v1/taman-ai-ketqua-1782097986555.jpg",
+        "https://i.postimg.cc/9FLzydrG/taman-ai-ketqua-1782098061245.jpg",
+        "https://i.postimg.cc/tCB7F3Yd/taman-ai-ketqua-1782098090674.jpg",
+        "https://i.postimg.cc/tCB7F3Yz/taman-ai-ketqua-1782098144287.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Trắng Thanh Tịnh",
+          "hex": "#f4f1ea",
+          "image": "https://i.postimg.cc/MK9X17v1/taman-ai-ketqua-1782097986555.jpg"
+        },
+        {
+          "name": "Xám đá",
+          "hex": "#a7a59e",
+          "image": "https://i.postimg.cc/9FLzydrG/taman-ai-ketqua-1782098061245.jpg"
+        },
+        {
+          "name": "Màu be",
+          "hex": "#fedb95",
+          "image": "https://i.postimg.cc/MK9X17v1/taman-ai-ketqua-1782097986555.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "size": "10cm",
+          "style": "Mặc định",
+          "price": 149000,
+          "oldPrice": 239000
+        },
+        {
+          "size": "15cm",
+          "style": "Mặc định",
+          "price": 289000,
+          "oldPrice": 479000
+        },
+        {
+          "size": "20cm",
+          "style": "Mặc định",
+          "price": 539000,
+          "oldPrice": 889000
+        }
+      ]
+    },
+    {
       "id": "1782060743425",
       "active": true,
       "featured": false,
       "category": "decor",
-      "name": "Tượng Phật Quan Âm Đứn",
+      "name": "Tượng Phật Quan Âm Đứng",
       "short": "Tượng Decor Phong Thủy Cho Taplo Ô Tô, Bàn Làm Việc, Mang Lại Bình An",
       "description": "Tên sản phẩm: Tượng Quan Âm In 3D Nhựa PLA+ (15cm) - Tượng Decor Phong Thủy Cho Taplo Ô Tô, Bàn Làm Việc, Mang Lại Bình An [Takumi]\n\n✨ TƯỢNG QUAN ÂM NGỒI ĐÀI SEN - BÌNH AN TRONG TỪNG ĐƯỜNG NÉT ✨\n\n\n\n⚙️ THÔNG TIN SẢN PHẨM\n\nChất liệu: Nhựa sinh học PLA+ (Siêu bền bỉ, rơi không vỡ, an toàn cho sức khỏe).\n\nCông nghệ: In 3D sắc nét đến từng nếp áo, cánh sen.\n\nKích thước: Cao 10cm - 15cm - 20cm.\n\nMàu sắc: Trắng Bạch Ngọc | Vàng Ngọc Ngà | Xám Khói (Đá Thiền).\n\n\n\n💎 ƯU ĐIỂM NỔI BẬT\n\nKhông lo rơi vỡ: Khắc phục nhược điểm của gốm sứ/thạch cao, cực kỳ an toàn khi đặt trên Taplo Ô tô.\n\nỨng dụng đa dạng: Cấu tạo nhẹ nhưng đứng vững, dễ dán keo. Phù hợp decor ô tô, bàn làm việc, hòn non bộ, góc thiền...\n\nÝ nghĩa: Tượng mang năng lượng an lạc, hóa giải muộn phiền, là món quà tân gia/sinh nhật đầy tinh tế.\n\n\n\n📦 TAKUMI CAM KẾT\n\nSản phẩm thực tế sắc nét đúng 100% như hình/video.\n\nĐóng gói chống sốc nhiều lớp cực kỳ cẩn thận.\n\n1 ĐỔI 1 ngay lập tức nếu nứt vỡ do vận chuyển (Khách hoan hỉ quay lại video khi mở hàng nhé).\n\n\n\n#takumidecor #tuongquanamin3d #tuongquanam #tuongphatmini #decoroto #decortaplo #decorbanlamviec #tuongphongthuy #quatangynghia #tuongdecor #nhuapla",
       "badge": "",
@@ -150,16 +206,17 @@
       "rating": 4.9,
       "sold": 25,
       "images": [
-        "https://i.postimg.cc/qvcSynDR/quick-tag-1778556301762.jpg",
+        "https://i.postimg.cc/RFgLk3gG/taman-ai-ketqua-1782097528831.jpg",
         "https://i.postimg.cc/W1cxdS8J/taman-ai-ketqua-1778216454292.jpg",
         "https://i.postimg.cc/t4G8sDks/taman-ai-ketqua-1778223421783.jpg",
-        "https://i.postimg.cc/W1mCgrYW/Dat-Ma-Mua-Vo.png"
+        "https://i.postimg.cc/W1mCgrYW/Dat-Ma-Mua-Vo.png",
+        "https://i.postimg.cc/x87ydwDD/taman-ai-ketqua-1782097439409.jpg"
       ],
       "colors": [
         {
           "name": "Trắng Thanh Tịnh",
           "hex": "#f4f1ea",
-          "image": "https://i.postimg.cc/qvcSynDR/quick-tag-1778556301762.jpg"
+          "image": "https://i.postimg.cc/RFgLk3gG/taman-ai-ketqua-1782097528831.jpg"
         },
         {
           "name": "Xám Thiền Định",
@@ -322,7 +379,7 @@
       "rating": 4.9,
       "sold": 28,
       "images": [
-        "https://i.postimg.cc/2StXNwtd/taman-ai-ketqua-1781886994631.jpg",
+        "https://i.postimg.cc/vm3nBJ5H/taman-ai-ketqua-1782097725583.jpg",
         "https://i.postimg.cc/SxPtbrPn/taman-ai-ketqua-1781887070206.jpg",
         "https://i.postimg.cc/RZhbY8gt/taman-ai-ketqua-1781887107520.jpg",
         "https://i.postimg.cc/6pq1PSM4/taman-ai-ketqua-1781887213269.jpg",
@@ -333,7 +390,7 @@
         {
           "name": "Trắng đá",
           "hex": "#f4f1ea",
-          "image": "https://i.postimg.cc/2StXNwtd/taman-ai-ketqua-1781886994631.jpg"
+          "image": "https://i.postimg.cc/vm3nBJ5H/taman-ai-ketqua-1782097725583.jpg"
         },
         {
           "name": "Xám đá",
