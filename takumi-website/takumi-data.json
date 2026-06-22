@@ -1,7 +1,7 @@
 {
   "site": {
     "brand": "Takumi Studio",
-    "updatedAt": "2026-06-21T17:00:51.981Z"
+    "updatedAt": "2026-06-22T01:50:39.551Z"
   },
   "categories": [
     {
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "id": "1782036325351",
+      "id": "2",
       "active": true,
       "featured": true,
       "category": "decor",
@@ -205,20 +205,19 @@
       "badge": "Được chọn nhiều",
       "ship": false,
       "rating": 4.9,
-      "sold": 75,
+      "sold": 26,
       "images": [
-        "https://i.postimg.cc/QVLRDqVX/Chat-GPT-Image-17-15-32-21-thg-6-2026.png",
+        "https://i.postimg.cc/PNGBHMJc/taman-ai-ketqua-1782037099212.jpg",
         "https://i.postimg.cc/kDrkCyDr/taman-ai-ketqua-1782036991988.jpg",
         "https://i.postimg.cc/BtWd3Cbr/taman-ai-ketqua-1782037032739.jpg",
         "https://i.postimg.cc/DmVthc0M/taman-ai-ketqua-1782037065670.jpg",
-        "https://i.postimg.cc/PNGBHMJc/taman-ai-ketqua-1782037099212.jpg",
         "https://i.postimg.cc/DmVthc0H/taman-ai-ketqua-1782037236821.jpg"
       ],
       "colors": [
         {
           "name": "Trắng đá",
           "hex": "#f4f1ea",
-          "image": "https://i.postimg.cc/kDrkCyDr/taman-ai-ketqua-1782036991988.jpg"
+          "image": "https://i.postimg.cc/PNGBHMJc/taman-ai-ketqua-1782037099212.jpg"
         },
         {
           "name": "Xám đá",
@@ -236,19 +235,19 @@
           "size": "10cm",
           "style": "Mặc định",
           "price": 149000,
-          "oldPrice": 239000
+          "oldPrice": 0
         },
         {
           "size": "15cm",
           "style": "Mặc định",
           "price": 269000,
-          "oldPrice": 439000
+          "oldPrice": 0
         },
         {
           "size": "20cm",
           "style": "Mặc định",
           "price": 549000,
-          "oldPrice": 779000
+          "oldPrice": 0
         }
       ]
     },
@@ -265,9 +264,8 @@
       "rating": 4.9,
       "sold": 27,
       "images": [
-        "https://i.postimg.cc/8z2WQKRQ/taman-ai-ketqua-1782043365943.jpg",
-        "https://i.postimg.cc/NMQgRBxQ/taman-ai-ketqua-1781841783503.jpg",
         "https://i.postimg.cc/fLMwYDvT/taman-ai-ketqua-1781841916593.jpg",
+        "https://i.postimg.cc/NMQgRBxQ/taman-ai-ketqua-1781841783503.jpg",
         "https://i.postimg.cc/ZRJT64Ly/taman-ai-ketqua-1781843319270.jpg",
         "https://i.postimg.cc/yd7V0sTR/taman-ai-ketqua-1781843485609.jpg",
         "https://i.postimg.cc/C1wFbS4b/taman-ai-ketqua-1781843666260.jpg",
@@ -278,7 +276,7 @@
         {
           "name": "Trắng đá",
           "hex": "#f4f1ea",
-          "image": "https://i.postimg.cc/8z2WQKRQ/taman-ai-ketqua-1782043365943.jpg"
+          "image": "https://i.postimg.cc/fLMwYDvT/taman-ai-ketqua-1781841916593.jpg"
         },
         {
           "name": "Xám đá",
@@ -313,7 +311,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "4",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -323,9 +321,8 @@
       "badge": "",
       "ship": false,
       "rating": 4.9,
-      "sold": 29,
+      "sold": 28,
       "images": [
-        "https://i.postimg.cc/y8GrCPGy/taman-ai-ketqua-1781845160494.jpg",
         "https://i.postimg.cc/2StXNwtd/taman-ai-ketqua-1781886994631.jpg",
         "https://i.postimg.cc/SxPtbrPn/taman-ai-ketqua-1781887070206.jpg",
         "https://i.postimg.cc/RZhbY8gt/taman-ai-ketqua-1781887107520.jpg",
@@ -337,7 +334,7 @@
         {
           "name": "Trắng đá",
           "hex": "#f4f1ea",
-          "image": "https://i.postimg.cc/13XYdTvg/taman-ai-ketqua-1781887579702.jpg"
+          "image": "https://i.postimg.cc/2StXNwtd/taman-ai-ketqua-1781886994631.jpg"
         },
         {
           "name": "Xám đá",
@@ -355,19 +352,19 @@
           "size": "10cm",
           "style": "Mặc định",
           "price": 149000,
-          "oldPrice": 239000
+          "oldPrice": 0
         },
         {
           "size": "15cm",
           "style": "Mặc định",
           "price": 269000,
-          "oldPrice": 439000
+          "oldPrice": 0
         },
         {
           "size": "20cm",
           "style": "Mặc định",
           "price": 549000,
-          "oldPrice": 779000
+          "oldPrice": 0
         }
       ]
     }
