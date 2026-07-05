@@ -1,7 +1,7 @@
 {
   "site": {
     "brand": "Takumi Studio",
-    "updatedAt": "2026-06-22T17:59:15.969Z"
+    "updatedAt": "2026-07-05T11:15:48.173Z"
   },
   "categories": [
     {
@@ -19,7 +19,7 @@
   ],
   "products": [
     {
-      "id": "1782103552073",
+      "id": "tuong-phat-dung-vo-uy",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -28,8 +28,8 @@
       "description": "Tượng Phật Decor Bình An - Trang Trí Bàn Làm Việc, Taplo Ô Tô, Bể Bán Cạn - Takumi Studio Thiết Kế In 3D Cao Cấp\n\n\n\n✨ MANG BÌNH AN VÀ TĨNH LẶNG VÀO KHÔNG GIAN SỐNG CÙNG TAKUMI STUDIO ✨\n\nBạn đang tìm kiếm một điểm nhấn tâm linh tinh tế cho góc làm việc, một biểu tượng bình an cho mỗi chuyến hành trình trên xe ô tô, hay một vật phẩm decor độc đáo cho bể bán cạn? Bộ sưu tập Tượng Phật từ Takumi Studio chính là câu trả lời hoàn hảo.\n\n\n\n🌟 1. CÔNG NGHỆ IN 3D CHẾ TÁC ĐỘC QUYỀN\n\nKhác biệt hoàn toàn với các dòng tượng đúc công nghiệp, sản phẩm của Takumi Studio được sản xuất bằng công nghệ in 3D hiện đại:\n\nĐộ nét 4K: Các lớp in siêu mỏng giúp tái hiện thần thái rạng rỡ, nụ cười hỷ lạc và từng nếp áo bay bổng sắc nét đến từng milimet.\n\nBề mặt nhám mịn: Tượng có độ lì, tán sáng sang trọng, tạo cảm giác cao cấp khi chạm vào.\n\n\n\n🍃 2. THÔNG SỐ KỸ THUẬT & CHẤT LIỆU VƯỢT TRỘI\n\nChất liệu: Nhựa sinh học PLA+ cao cấp. Đây là loại nhựa chiết xuất từ tinh bột thực vật, cực kỳ thân thiện với môi trường, siêu bền bỉ và hoàn toàn không mùi.\n\nKhả năng chịu nhiệt: Được tối ưu hóa để chịu nhiệt cực tốt, đảm bảo không cong vênh, không phai màu ngay cả khi đặt dưới nắng gắt trên taplo xe ô tô.\n\n\n\n🎨 3. BỘ SƯU TẬP MÀU SẮC TÂM LINH\n\nChúng tôi mang đến 3 tông màu được tuyển chọn kỹ lưỡng để phù hợp với mọi phong cách decor:\n\n🤍 Sắc Trắng Thanh Tịnh: Tinh khiết, làm bừng sáng không gian, mang lại cảm giác sạch sẽ và an yên.\n\n🧡 Sắc Be An Nhiên (Tông da ấm): Mang sinh khí ấm áp, gần gũi, làm nổi bật thần thái hỷ lạc của Ngài.\n\n🩶 Sắc Xám Thiền Định: Vững chãi, uy nghiêm, mang đậm nét đẹp thiền môn và hoài cổ.\n\n\n\n📏 4. KÍCH THƯỚC LINH HOẠT CHO MỌI NHU CẦU\n\nSize 10cm: \"Kích thước vàng\" chuyên dụng cho Taplo ô tô. Nhỏ gọn, tinh tế, không gây khuất tầm nhìn, đồng hành cùng bạn trên mọi nẻo đường.\n\nSize 15cm: Phù hợp trang trí Bàn làm việc, kệ sách hoặc các hốc decor nhỏ trong nhà.\n\nSize 20cm: Đẳng cấp cho Quầy thu ngân, bàn trà, phòng khách, tạo điểm nhấn tâm linh uy nghiêm.\n\n\n\n🎁 TẠI SAO NÊN CHỌN SẢN PHẨM TỪ TAKUMI STUDIO?\n\nThiết kế độc bản: Sản phẩm được nghiên cứu và tối ưu riêng bởi đội ngũ nghệ nhân 3D của Takumi Studio.\n\nĐóng gói cẩn thận: Tượng được bọc chống sốc nhiều lớp, đảm bảo nguyên vẹn 100% khi đến tay khách hàng.\n\nHỗ trợ tận tình: Cam kết đổi trả nếu có lỗi sản xuất hoặc hư hỏng do vận chuyển.\n\n\n\n🛒 HÃY NHẤN \"MUA NGAY\" ĐỂ THỈNH NGÀI VỀ KHÔNG GIAN CỦA BẠN!\n\n\n\n#tuongphat #tuongphatdecor #tuongphatdeoto #tuongphatnhapnietban #tuongphatngoi #decorbanlamviec #tuongphatphongthuy #takumistudio #in3d #decortaplo #tuongphatmini #decorbecan #nhuasinhhoc #quatangtamlinh",
       "badge": "",
       "ship": false,
-      "rating": 4.9,
-      "sold": 97,
+      "rating": 4.8,
+      "sold": 512,
       "images": [
         "https://i.postimg.cc/tgbBxnJL/taman-ai-ketqua-1782103623048.jpg",
         "https://i.postimg.cc/zfNxgHvs/taman-ai-ketqua-1782103700055.jpg",
@@ -58,25 +58,27 @@
           "size": "10cm",
           "style": "Mặc định",
           "price": 119000,
-          "oldPrice": 0
+          "oldPrice": 189000
         },
         {
           "size": "15cm",
           "style": "Mặc định",
           "price": 229000,
-          "oldPrice": 0
+          "oldPrice": 379000
         },
         {
           "size": "20cm",
           "style": "Mặc định",
           "price": 369000,
-          "oldPrice": 0
+          "oldPrice": 609000
         }
       ],
-      "slug": "tuong-phat-dung-vo-uy"
+      "slug": "tuong-phat-dung-vo-uy",
+      "detailPage": "san-pham/tuong-phat-dung-vo-uy.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-phat-dung-vo-uy.html"
     },
     {
-      "id": "1782100802431",
+      "id": "tuong-phat-nhap-niet-ban",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -86,7 +88,7 @@
       "badge": "",
       "ship": false,
       "rating": 4.9,
-      "sold": 55,
+      "sold": 785,
       "images": [
         "https://i.postimg.cc/pLCFsmqV/taman-ai-ketqua-1782103240858.jpg",
         "https://i.postimg.cc/1zzN2yj3/taman-ai-ketqua-1782102508557.jpg",
@@ -131,10 +133,12 @@
           "oldPrice": 609000
         }
       ],
-      "slug": "tuong-phat-nhap-niet-ban"
+      "slug": "tuong-phat-nhap-niet-ban",
+      "detailPage": "san-pham/tuong-phat-nhap-niet-ban.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-phat-nhap-niet-ban.html"
     },
     {
-      "id": "1782104163575",
+      "id": "tuong-phat-ngoi-thien",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -143,8 +147,8 @@
       "description": "Tượng Phật Decor Bình An - Trang Trí Bàn Làm Việc, Taplo Ô Tô, Bể Bán Cạn - Takumi Studio Thiết Kế In 3D Cao Cấp\n\n\n\n✨ MANG BÌNH AN VÀ TĨNH LẶNG VÀO KHÔNG GIAN SỐNG CÙNG TAKUMI STUDIO ✨\n\nBạn đang tìm kiếm một điểm nhấn tâm linh tinh tế cho góc làm việc, một biểu tượng bình an cho mỗi chuyến hành trình trên xe ô tô, hay một vật phẩm decor độc đáo cho bể bán cạn? Bộ sưu tập Tượng Phật từ Takumi Studio chính là câu trả lời hoàn hảo.\n\n\n\n🌟 1. CÔNG NGHỆ IN 3D CHẾ TÁC ĐỘC QUYỀN\n\nKhác biệt hoàn toàn với các dòng tượng đúc công nghiệp, sản phẩm của Takumi Studio được sản xuất bằng công nghệ in 3D hiện đại:\n\nĐộ nét 4K: Các lớp in siêu mỏng giúp tái hiện thần thái rạng rỡ, nụ cười hỷ lạc và từng nếp áo bay bổng sắc nét đến từng milimet.\n\nBề mặt nhám mịn: Tượng có độ lì, tán sáng sang trọng, tạo cảm giác cao cấp khi chạm vào.\n\n\n\n🍃 2. THÔNG SỐ KỸ THUẬT & CHẤT LIỆU VƯỢT TRỘI\n\nChất liệu: Nhựa sinh học PLA+ cao cấp. Đây là loại nhựa chiết xuất từ tinh bột thực vật, cực kỳ thân thiện với môi trường, siêu bền bỉ và hoàn toàn không mùi.\n\nKhả năng chịu nhiệt: Được tối ưu hóa để chịu nhiệt cực tốt, đảm bảo không cong vênh, không phai màu ngay cả khi đặt dưới nắng gắt trên taplo xe ô tô.\n\n\n\n🎨 3. BỘ SƯU TẬP MÀU SẮC TÂM LINH\n\nChúng tôi mang đến 3 tông màu được tuyển chọn kỹ lưỡng để phù hợp với mọi phong cách decor:\n\n🤍 Sắc Trắng Thanh Tịnh: Tinh khiết, làm bừng sáng không gian, mang lại cảm giác sạch sẽ và an yên.\n\n🧡 Sắc Be An Nhiên (Tông da ấm): Mang sinh khí ấm áp, gần gũi, làm nổi bật thần thái hỷ lạc của Ngài.\n\n🩶 Sắc Xám Thiền Định: Vững chãi, uy nghiêm, mang đậm nét đẹp thiền môn và hoài cổ.\n\n\n\n📏 4. KÍCH THƯỚC LINH HOẠT CHO MỌI NHU CẦU\n\nSize 10cm: \"Kích thước vàng\" chuyên dụng cho Taplo ô tô. Nhỏ gọn, tinh tế, không gây khuất tầm nhìn, đồng hành cùng bạn trên mọi nẻo đường.\n\nSize 15cm: Phù hợp trang trí Bàn làm việc, kệ sách hoặc các hốc decor nhỏ trong nhà.\n\nSize 20cm: Đẳng cấp cho Quầy thu ngân, bàn trà, phòng khách, tạo điểm nhấn tâm linh uy nghiêm.\n\n\n\n🎁 TẠI SAO NÊN CHỌN SẢN PHẨM TỪ TAKUMI STUDIO?\n\nThiết kế độc bản: Sản phẩm được nghiên cứu và tối ưu riêng bởi đội ngũ nghệ nhân 3D của Takumi Studio.\n\nĐóng gói cẩn thận: Tượng được bọc chống sốc nhiều lớp, đảm bảo nguyên vẹn 100% khi đến tay khách hàng.\n\nHỗ trợ tận tình: Cam kết đổi trả nếu có lỗi sản xuất hoặc hư hỏng do vận chuyển.\n\n\n\n🛒 HÃY NHẤN \"MUA NGAY\" ĐỂ THỈNH NGÀI VỀ KHÔNG GIAN CỦA BẠN!\n\n\n\n#tuongphat #tuongphatdecor #tuongphatdeoto #tuongphatnhapnietban #tuongphatngoi #decorbanlamviec #tuongphatphongthuy #takumistudio #in3d #decortaplo #tuongphatmini #decorbecan #nhuasinhhoc #quatangtamlinh",
       "badge": "",
       "ship": false,
-      "rating": 4.9,
-      "sold": 99,
+      "rating": 4.8,
+      "sold": 846,
       "images": [
         "https://i.postimg.cc/g22VFyxC/taman-ai-ketqua-1782104457165.jpg",
         "https://i.postimg.cc/wjjX85tK/taman-ai-ketqua-1782104487377.jpg",
@@ -174,25 +178,27 @@
           "size": "10cm",
           "style": "Mặc định",
           "price": 149000,
-          "oldPrice": 0
+          "oldPrice": 239000
         },
         {
           "size": "15cm",
           "style": "Mặc định",
           "price": 269000,
-          "oldPrice": 0
+          "oldPrice": 479000
         },
         {
           "size": "20cm",
           "style": "Mặc định",
           "price": 549000,
-          "oldPrice": 0
+          "oldPrice": 769000
         }
       ],
-      "slug": "tuong-phat-ngoi-thien"
+      "slug": "tuong-phat-ngoi-thien",
+      "detailPage": "san-pham/tuong-phat-ngoi-thien.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-phat-ngoi-thien.html"
     },
     {
-      "id": "1782056161271",
+      "id": "tuong-dat-ma-toa-son",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -201,8 +207,8 @@
       "description": "🙏 TƯỢNG ĐẠT MA SƯ TỔ TAKUMI IN 3D - THẦN THÁI UY NGHIÊM, TRẤN GIỮ BÌNH AN\n\nTrong dòng đời nhiều biến động, bạn đang tìm kiếm một \"điểm tựa\" tinh thần mạnh mẽ, một biểu tượng kiên định để trấn giữ không gian làm việc hay đồng hành bình an trên mọi cung đường? Takumi Studio mang đến giải pháp nghệ thuật tâm linh hoàn toàn mới với công nghệ in 3D hiện đại, vượt xa những bức tượng đúc khuôn công nghiệp vô hồn.\n\n\n\n\n\n🌟 3 DÁNG THẾ - 3 TẦNG Ý NGHĨA SÂU SẮC:\n\nMã DM01 - Đạt Ma Múa Võ: Đường quyền mạnh mẽ, ánh mắt cương nghị. Mang sức mạnh trấn trạch đỉnh cao, xua đuổi tà khí, bảo vệ bình an tuyệt đối cho gia đạo.\n\nMã DM02 - Đạt Ma Khất Thực: Nét mặt trầm tư, tự tại. Nhắc nhở về sự nhẫn nại, tu tâm dưỡng tính để tìm thấy hạnh phúc đích thực giữa đời thường.\n\nMã DM03 - Đạt Ma Quá Hải: Từng lớp sóng cuộn trào, tà áo tung bay. Biểu tượng cho ý chí vượt mọi trở ngại, giúp sự nghiệp hanh thông, \"vượt vũ môn\" ngoạn mục.\n\n\n\n\n\n📐 THÔNG SỐ CHẾ TÁC VƯỢT TRỘI:\n\nChất liệu: Nhựa sinh học PLA+ cao cấp. Bề mặt mịn mướt, chịu nhiệt tốt, không phai màu dù để dưới nắng taplo ô tô.\n\nĐộ \"Động\" Tuyệt Mỹ: Công nghệ in lớp siêu mỏng tái hiện chân thực tà áo \"bay\" uốn lượn theo gió cực kỳ sống động.\n\nMàu sắc Tâm Linh: 🤍 Sắc Trắng Thanh Tịnh | 🧡 Sắc Be An Nhiên | 🩶 Sắc Xám Thiền Định\n\nKích thước: 10cm (Chuẩn taplo xe hơi) | 15cm - 20cm (Đẳng cấp bàn làm việc, kệ sách).\n\n\n\n🎁 ƯU ĐÃI ĐẶC BIỆT: TẶNG NGAY miếng dán 3M siêu dính (cho đơn taplo) + Giảm 30% khi thỉnh trọn bộ \"Tam Thế An Nhiên\".450000",
       "badge": "",
       "ship": false,
-      "rating": 4.9,
-      "sold": 95,
+      "rating": 4.8,
+      "sold": 547,
       "images": [
         "https://i.postimg.cc/d3TwbCqc/taman-ai-ketqua-1782096473460.jpg",
         "https://i.postimg.cc/Sx3pq5NP/taman-ai-ketqua-1782056360523.jpg",
@@ -252,10 +258,12 @@
           "oldPrice": 1039000
         }
       ],
-      "slug": "tuong-dat-ma-toa-son"
+      "slug": "tuong-dat-ma-toa-son",
+      "detailPage": "san-pham/tuong-dat-ma-toa-son.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-dat-ma-toa-son.html"
     },
     {
-      "id": "1782100245842",
+      "id": "tuong-phat-quan-am-ngoi",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -264,8 +272,8 @@
       "description": "Tên sản phẩm: Tượng Quan Âm In 3D Nhựa PLA+ (15cm) - Tượng Decor Phong Thủy Cho Taplo Ô Tô, Bàn Làm Việc, Mang Lại Bình An [Takumi]\n\n✨ TƯỢNG QUAN ÂM NGỒI ĐÀI SEN - BÌNH AN TRONG TỪNG ĐƯỜNG NÉT ✨\n\n\n\n⚙️ THÔNG TIN SẢN PHẨM\n\nChất liệu: Nhựa sinh học PLA+ (Siêu bền bỉ, rơi không vỡ, an toàn cho sức khỏe).\n\nCông nghệ: In 3D sắc nét đến từng nếp áo, cánh sen.\n\nKích thước: Cao 10cm - 15cm - 20cm.\n\nMàu sắc: Trắng Bạch Ngọc | Vàng Ngọc Ngà | Xám Khói (Đá Thiền).\n\n\n\n💎 ƯU ĐIỂM NỔI BẬT\n\nKhông lo rơi vỡ: Khắc phục nhược điểm của gốm sứ/thạch cao, cực kỳ an toàn khi đặt trên Taplo Ô tô.\n\nỨng dụng đa dạng: Cấu tạo nhẹ nhưng đứng vững, dễ dán keo. Phù hợp decor ô tô, bàn làm việc, hòn non bộ, góc thiền...\n\nÝ nghĩa: Tượng mang năng lượng an lạc, hóa giải muộn phiền, là món quà tân gia/sinh nhật đầy tinh tế.\n\n\n\n📦 TAKUMI CAM KẾT\n\nSản phẩm thực tế sắc nét đúng 100% như hình/video.\n\nĐóng gói chống sốc nhiều lớp cực kỳ cẩn thận.\n\n1 ĐỔI 1 ngay lập tức nếu nứt vỡ do vận chuyển (Khách hoan hỉ quay lại video khi mở hàng nhé).\n\n\n\n#takumidecor #tuongquanamin3d #tuongquanam #tuongphatmini #decoroto #decortaplo #decorbanlamviec #tuongphongthuy #quatangynghia #tuongdecor #nhuapla",
       "badge": "",
       "ship": false,
-      "rating": 4.9,
-      "sold": 66,
+      "rating": 4.8,
+      "sold": 1328,
       "images": [
         "https://i.postimg.cc/SNH31KTH/taman-ai-ketqua-1782100520147.jpg",
         "https://i.postimg.cc/5NDTKt7T/taman-ai-ketqua-1782100446122.jpg",
@@ -309,10 +317,12 @@
           "oldPrice": 769000
         }
       ],
-      "slug": "tuong-phat-quan-am-ngoi"
+      "slug": "tuong-phat-quan-am-ngoi",
+      "detailPage": "san-pham/tuong-phat-quan-am-ngoi.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-phat-quan-am-ngoi.html"
     },
     {
-      "id": "10",
+      "id": "tuong-ton-ngo-khong-van-thien-ho-phap",
       "active": true,
       "featured": true,
       "category": "decor",
@@ -322,7 +332,7 @@
       "badge": "Được chọn nhiều",
       "ship": false,
       "rating": 4.9,
-      "sold": 34,
+      "sold": 542,
       "images": [
         "https://i.postimg.cc/DzzkBSBV/taman-ai-ketqua-1782130778771.jpg",
         "https://i.postimg.cc/NMQgRBxQ/taman-ai-ketqua-1781841783503.jpg",
@@ -369,10 +379,12 @@
           "oldPrice": 739000
         }
       ],
-      "slug": "tuong-ton-ngo-khong-van-thien-ho-phap"
+      "slug": "tuong-ton-ngo-khong-van-thien-ho-phap",
+      "detailPage": "san-pham/tuong-ton-ngo-khong-van-thien-ho-phap.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-ton-ngo-khong-van-thien-ho-phap.html"
     },
     {
-      "id": "9",
+      "id": "tuong-ton-ngo-khong-tran-van",
       "active": true,
       "featured": true,
       "category": "decor",
@@ -382,7 +394,7 @@
       "badge": "Được chọn nhiều",
       "ship": false,
       "rating": 4.9,
-      "sold": 33,
+      "sold": 610,
       "images": [
         "https://i.postimg.cc/Bb14rFJp/taman-ai-ketqua-1782096631000.jpg",
         "https://i.postimg.cc/kDrkCyDr/taman-ai-ketqua-1782036991988.jpg",
@@ -427,10 +439,12 @@
           "oldPrice": 779000
         }
       ],
-      "slug": "tuong-ton-ngo-khong-tran-van"
+      "slug": "tuong-ton-ngo-khong-tran-van",
+      "detailPage": "san-pham/tuong-ton-ngo-khong-tran-van.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-ton-ngo-khong-tran-van.html"
     },
     {
-      "id": "1",
+      "id": "tuong-phat-quan-am-nghin-tay",
       "active": true,
       "featured": true,
       "category": "decor",
@@ -440,7 +454,7 @@
       "badge": "Được chọn nhiều",
       "ship": false,
       "rating": 4.9,
-      "sold": 25,
+      "sold": 512,
       "images": [
         "https://i.postimg.cc/MK9X17v1/taman-ai-ketqua-1782097986555.jpg",
         "https://i.postimg.cc/9FLzydrG/taman-ai-ketqua-1782098061245.jpg",
@@ -484,10 +498,12 @@
           "oldPrice": 769000
         }
       ],
-      "slug": "tuong-phat-quan-am-nghin-tay"
+      "slug": "tuong-phat-quan-am-nghin-tay",
+      "detailPage": "san-pham/tuong-phat-quan-am-nghin-tay.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-phat-quan-am-nghin-tay.html"
     },
     {
-      "id": "1782060743425",
+      "id": "tuong-phat-quan-am-dung",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -497,7 +513,7 @@
       "badge": "",
       "ship": false,
       "rating": 4.9,
-      "sold": 49,
+      "sold": 619,
       "images": [
         "https://i.postimg.cc/qqmy59M7/taman-ai-ketqua-1782096247699.jpg",
         "https://i.postimg.cc/KvfyRfm4/taman-ai-ketqua-1782060260758.jpghttps://i.postimg.cc/hPsqfsKt/taman-ai-ketqua-1782060688248.jpg",
@@ -542,10 +558,12 @@
           "oldPrice": 609000
         }
       ],
-      "slug": "tuong-phat-quan-am-dung"
+      "slug": "tuong-phat-quan-am-dung",
+      "detailPage": "san-pham/tuong-phat-quan-am-dung.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-phat-quan-am-dung.html"
     },
     {
-      "id": "11",
+      "id": "tuong-ton-ngo-khong-phuc-ma",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -555,7 +573,7 @@
       "badge": "",
       "ship": false,
       "rating": 4.9,
-      "sold": 35,
+      "sold": 431,
       "images": [
         "https://i.postimg.cc/k4FQG5PD/taman-ai-ketqua-1782130917245.jpg",
         "https://i.postimg.cc/SxPtbrPn/taman-ai-ketqua-1781887070206.jpg",
@@ -601,10 +619,12 @@
           "oldPrice": 779000
         }
       ],
-      "slug": "tuong-ton-ngo-khong-phuc-ma"
+      "slug": "tuong-ton-ngo-khong-phuc-ma",
+      "detailPage": "san-pham/tuong-ton-ngo-khong-phuc-ma.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-ton-ngo-khong-phuc-ma.html"
     },
     {
-      "id": "8",
+      "id": "tuong-dat-ma-mua-vo",
       "active": true,
       "featured": false,
       "category": "decor",
@@ -613,8 +633,8 @@
       "description": "🙏 TƯỢNG ĐẠT MA SƯ TỔ TAKUMI IN 3D - THẦN THÁI UY NGHIÊM, TRẤN GIỮ BÌNH AN\n\nTrong dòng đời nhiều biến động, bạn đang tìm kiếm một \"điểm tựa\" tinh thần mạnh mẽ, một biểu tượng kiên định để trấn giữ không gian làm việc hay đồng hành bình an trên mọi cung đường? Takumi Studio mang đến giải pháp nghệ thuật tâm linh hoàn toàn mới với công nghệ in 3D hiện đại, vượt xa những bức tượng đúc khuôn công nghiệp vô hồn.\n\n\n\n\n\n🌟 3 DÁNG THẾ - 3 TẦNG Ý NGHĨA SÂU SẮC:\n\nMã DM01 - Đạt Ma Múa Võ: Đường quyền mạnh mẽ, ánh mắt cương nghị. Mang sức mạnh trấn trạch đỉnh cao, xua đuổi tà khí, bảo vệ bình an tuyệt đối cho gia đạo.\n\nMã DM02 - Đạt Ma Khất Thực: Nét mặt trầm tư, tự tại. Nhắc nhở về sự nhẫn nại, tu tâm dưỡng tính để tìm thấy hạnh phúc đích thực giữa đời thường.\n\nMã DM03 - Đạt Ma Quá Hải: Từng lớp sóng cuộn trào, tà áo tung bay. Biểu tượng cho ý chí vượt mọi trở ngại, giúp sự nghiệp hanh thông, \"vượt vũ môn\" ngoạn mục.\n\n\n\n\n\n📐 THÔNG SỐ CHẾ TÁC VƯỢT TRỘI:\n\nChất liệu: Nhựa sinh học PLA+ cao cấp. Bề mặt mịn mướt, chịu nhiệt tốt, không phai màu dù để dưới nắng taplo ô tô.\n\nĐộ \"Động\" Tuyệt Mỹ: Công nghệ in lớp siêu mỏng tái hiện chân thực tà áo \"bay\" uốn lượn theo gió cực kỳ sống động.\n\nMàu sắc Tâm Linh: 🤍 Sắc Trắng Thanh Tịnh | 🧡 Sắc Be An Nhiên | 🩶 Sắc Xám Thiền Định\n\nKích thước: 10cm (Chuẩn taplo xe hơi) | 15cm - 20cm (Đẳng cấp bàn làm việc, kệ sách).\n\n\n\n🎁 ƯU ĐÃI ĐẶC BIỆT: TẶNG NGAY miếng dán 3M siêu dính (cho đơn taplo) + Giảm 30% khi thỉnh trọn bộ \"Tam Thế An Nhiên\".450000",
       "badge": "",
       "ship": false,
-      "rating": 4.9,
-      "sold": 32,
+      "rating": 4.8,
+      "sold": 328,
       "images": [
         "https://i.postimg.cc/x87ydwDD/taman-ai-ketqua-1782097439409.jpg",
         "https://i.postimg.cc/W1cxdS8J/taman-ai-ketqua-1778216454292.jpg",
@@ -658,7 +678,9 @@
           "oldPrice": 0
         }
       ],
-      "slug": "tuong-dat-ma-mua-vo"
+      "slug": "tuong-dat-ma-mua-vo",
+      "detailPage": "san-pham/tuong-dat-ma-mua-vo.html",
+      "detailUrl": "https://cucuongcui96.github.io/takumi-studio-shop/takumi-website/san-pham/tuong-dat-ma-mua-vo.html"
     }
   ],
   "vouchers": [],
